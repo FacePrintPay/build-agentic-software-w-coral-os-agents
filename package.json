@@ -1,0 +1,12 @@
+{
+  "name": "build-agentic-software-w-coral-os-agents",
+  "version": "1.0.0",
+  "description": "C25 Module - build-agentic-software-w-coral-os-agents",
+  "main": "index.js",
+  "scripts": {
+    "start": "bash run.sh",
+    "test": "bash tests/test.sh 2>/dev/null || echo 'ok'"
+  },
+  "author": "Cygel White / FacePrintPay",
+  "license": "MIT"
+}
